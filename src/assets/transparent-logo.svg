@@ -331,7 +331,7 @@
        x="0"
        y="0" /></g><g
      id="layer1"
-     style="display:inline"><rect
+     style="display:none"><rect
        style="fill:url(#linearGradient7);fill-opacity:1;stroke-width:0.2619"
        id="rect1"
        width="200"
